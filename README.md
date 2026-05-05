@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Otto banner" width="100%" />
+</p>
+
 ## Hey there
 
 I’m Otto, and I make small projects.
