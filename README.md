@@ -1,47 +1,26 @@
-<div align="center">
+## Hey there
 
-# Otto
+I’m Otto, and I make small projects.
 
-🌿
+I build whatever comes to mind, if I have an idea, I make it.
 
-*small projects, strange ideas, quiet obsession*
+My “stack,” as tech YouTubers call it, is Apple Notes, pen and paper, Claude (of course), and music.
 
-<br>
+I’ve worked on other projects on Roblox, where I’ve contributed to over 150 games, and a lot of them made it to the front page.
 
-currently making things  
-one idea at a time
+You cant hire me right now, I’m currently in the two-week Minecraft phase. lol
 
-</div>
+<!--
+**otto-BigO/otto-BigO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-## about
-
-hey, i'm otto.
-
-i build small projects, experiments, and whatever else feels interesting enough to become real.
-
-i like simple tools, good music, and learning by making.
-
-i’ve also contributed to 150+ roblox games, and a lot of them made it to the front page.
-
----
-
-<div align="center">
-
-### stack
-
-apple notes  
-pen and paper  
-claude  
-music
-
-</div>
-
----
-
-<div align="center">
-
-*"make something real, then see where it goes."*
-
-</div>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
