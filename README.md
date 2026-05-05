@@ -1,26 +1,30 @@
-## Hey there
+<p align="center">
+  <img src="./assets/banner.png" alt="Otto banner" width="100%" />
+</p>
 
-I’m Otto, and I make small projects.
+<h1 align="center">Otto</h1>
 
-I build whatever comes to mind, if I have an idea, I make it.
+<p align="center">
+  small projects • ambient thoughts • quiet experiments
+</p>
 
-My “stack,” as tech YouTubers call it, is Apple Notes, pen and paper, Claude (of course), and music.
+<br>
 
-I’ve worked on other projects on Roblox, where I’ve contributed to over 150 games, and a lot of them made it to the front page.
+hey, i'm otto.
 
-You cant hire me right now, I’m currently in the two-week Minecraft phase. lol
+i build small projects, weird experiments, and whatever else feels interesting enough to become real.
 
-<!--
-**otto-BigO/otto-BigO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i like music, simple tools, and learning by making things.
 
-Here are some ideas to get you started:
+i’ve also contributed to 150+ roblox games, and a lot of them made it to the front page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## current setup
+
+- apple notes
+- pen and paper
+- claude
+- music
+
+<p align="center">
+  <i>building quiet things, one idea at a time</i>
+</p>
