@@ -12,7 +12,7 @@ My “stack,” as tech YouTubers call it, is Apple Notes, pen and paper, Claude
 
 I’ve worked on other projects on Roblox, where I’ve contributed to over 150 games, and a lot of them made it to the front page.
 
-You cant hire me right now, I’m currently in the two-week Minecraft phase. lol
+I’m currently in the two-week Minecraft phase. lol
 
 <!--
 **otto-BigO/otto-BigO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
